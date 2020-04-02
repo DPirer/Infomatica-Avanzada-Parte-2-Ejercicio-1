@@ -1,3 +1,11 @@
+// EJERCICIO 1
+
+// AUTOR: PEDRO ESTÉVEZ 
+
+/* Escribir un programa que cree un vector de caracteres de la ‘a’ a la ‘k’ y que
+posteriormente sustituya todas las vocales que se encuentran en el vector por el
+carácter ‘*’ */
+
 #include <iostream>
 #include <vector>
 #include <stdlib.h>
